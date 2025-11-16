@@ -13,7 +13,7 @@ const auth = new google.auth.GoogleAuth({
 
 const sheets = google.sheets({ version: 'v4', auth });
 
-export let SPREADSHEET_ID = 'ISI_ID_SPREADSHEET_KAMU'; // <-- Ganti dengan ID spreadsheet kamu
+export let SPREADSHEET_ID = '1C3pdkU6jJreOPW_j_ARvozlaHJlZYHwM_Ahjp6bChyg'; // <-- Ganti dengan ID spreadsheet kamu
 
 export async function appendReport(row) {
   if (SPREADSHEET_ID.startsWith('ISI_')) {
