@@ -1,0 +1,14 @@
+{
+  "name": "vendor-whatsapp-bot",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^7.24.1",
+    "googleapis": "^114.0.0",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
