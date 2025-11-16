@@ -1,1 +1,0 @@
-# Vendor WhatsApp Bot
