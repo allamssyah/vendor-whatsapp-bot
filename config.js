@@ -1,0 +1,1 @@
+module.exports = { sheetName: "LaporanKerjaVendor", jadwalSheet: "Jadwal" };
